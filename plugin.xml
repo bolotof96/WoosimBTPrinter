@@ -2,7 +2,8 @@
 <plugin id="cordova-plugin-custom" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>WoosimCordovaPlugin</name>
 	<license>Apache 2.0</license>
-	
+	<repo>https://github.com/bolotof96/WoosimBTPrinter</repo>
+
 	<!-- cordova -->
    <engines>
       <engine name="cordova" version=">=3.0.0" />
