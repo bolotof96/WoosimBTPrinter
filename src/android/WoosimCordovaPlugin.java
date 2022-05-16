@@ -1,4 +1,4 @@
-package cordova-plugin-custom;
+package cordova.plugin.custom;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
