@@ -8,10 +8,20 @@
       "android"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolotof96/WoosimBTPrinter.git"
+  },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android"
   ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "Apache 2.0"
 }
