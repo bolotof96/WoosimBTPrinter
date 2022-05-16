@@ -18,7 +18,7 @@
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml"></config-file>
-        <source-file src="src/android/WoosimCordovaPlugin.java" target-dir="src/cordova-plugin-custom/WoosimCordovaPlugin"/>
+        <source-file src="src/android/WoosimCordovaPlugin.java" target-dir="src/cordova/plugin/custom/WoosimCordovaPlugin"/>
         <source-file src="src/android/WoosimLib261.jar" target-dir="libs"/>
     </platform>
 </plugin>
